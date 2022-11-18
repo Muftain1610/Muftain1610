@@ -19,6 +19,27 @@
 📄 Know about my experiences [https://cutt.ly/eMSH1Bi]
 
 ⚡ Fun fact **I think i have a good sense of humor**
+<h2 align="left">Skills & Proficiencies</h2>
+📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+📗 Performance Testing Tool: JMeter
+
+📗 API Testing Tool: Postman
+
+📕 Security Testing Tool: Nmap
+
+📕 Programming Language: Java, Python, C,C++, JavaScript, HTML, CSS
+
+📗 Tools & Framework: Jmeter, GitHub
+
+📔 IDE: VS Code, Eclipse, Code Blocks, Google Colab
+
+📓 Database: MySql
+
+📙 Agile Methodology & Project Management: Jira
+
+📒 Operating System: Windows, Linux
+
+📚 Concepts: OOP, SDLC, STLC
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

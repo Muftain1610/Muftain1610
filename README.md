@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **You can send me email : muftainahmedjoy1610@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFQQo9bDlo/b9aEnjfune6XKQWgPOvGxA/view?utm_content=DAFQQo9bDlo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFQQo9bDlo/b9aEnjfune6XKQWgPOvGxA/view?utm_content=DAFQQo9bDlo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFQQo9bDlo/b9aEnjfune6XKQWgPOvGxA/view?utm_content=DAFQQo9bDlo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://cutt.ly/eMSH1Bi)
 
 - ⚡ Fun fact **I think i have a good sense of humor**
 

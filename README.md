@@ -8,17 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muftain1610&label=Profile%20views&color=0e75b6&style=flat" alt="muftain1610" /> </p>
 
-- 🔭 I’m currently working on **Manual Testing**
+🔭 I’m currently working on **Manual Testing**
 
-- 🌱 I’m currently learning **Automation Testing**
+🌱 I’m currently learning **Automation Testing**
 
-- 💬 Ask me about **Software QA, Manual testing, Automation testing**
+💬 Ask me about **Software QA, Manual testing, Automation testing**
 
-- 📫 How to reach me **You can send me email : muftainahmedjoy1610@gmail.com**
+📫 How to reach me **You can send me email : muftainahmedjoy1610@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/eMSH1Bi]
+📄 Know about my experiences [https://cutt.ly/eMSH1Bi]
 
-- ⚡ Fun fact **I think i have a good sense of humor**
+⚡ Fun fact **I think i have a good sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

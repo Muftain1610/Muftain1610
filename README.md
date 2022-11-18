@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Muftain Ahmed Joy</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
@@ -14,7 +16,7 @@
 
 - 📫 How to reach me **You can send me email : muftainahmedjoy1610@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFQQo9bDlo/b9aEnjfune6XKQWgPOvGxA/view?utm_content=DAFQQo9bDlo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://cutt.ly/eMSH1Bi)
+- 📄 Know about my experiences [https://cutt.ly/eMSH1Bi]
 
 - ⚡ Fun fact **I think i have a good sense of humor**
 
@@ -32,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muftain1610&show_icons=true&locale=en" alt="muftain1610" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muftain1610&" alt="muftain1610" /></p>
+
+

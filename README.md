@@ -27,7 +27,7 @@
 
 📕 Security Testing Tool: Nmap
 
-📕 Programming Language: Java, Python, C,C++, JavaScript, HTML, CSS
+📕 Programming Language: Java,C,C++, JavaScript, HTML, CSS
 
 📗 Tools & Framework: Jmeter, GitHub
 

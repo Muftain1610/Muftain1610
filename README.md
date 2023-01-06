@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **Automation Testing**
 
-💬 Ask me about **Software QA, Manual testing, Automation testing**
+💬 Ask me about **Software QA, Manual testing, API testing, Performance testing, Database testing, Automation testing**
 
 📫 How to reach me **You can send me email : muftainahmedjoy1610@gmail.com**
 

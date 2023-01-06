@@ -16,7 +16,8 @@
 
 📫 How to reach me **You can send me email : muftainahmedjoy1610@gmail.com**
 
-📄 Know about my experiences [https://cutt.ly/eMSH1Bi]
+📄 Check out my resume [https://www.canva.com/design/DAFSxWWiLtk/UaB_IiU5c32WO34BAX1S4w/view?utm_content=DAFSxWWiLtk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
+👉 Check out all my projects [https://github.com/Muftain1610?tab=repositories]
 
 ⚡ Fun fact **I think i have a good sense of humor**
 <h2 align="left">Skills & Proficiencies</h2>

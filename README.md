@@ -23,23 +23,36 @@
 ⚡ Fun fact **I think i have a good sense of humor**
 <h2 align="left">Skills & Proficiencies</h2>
 📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+
 📗 Performance Testing Tool: JMeter
 
 📗 API Testing Tool: Postman
 
-📕 Security Testing Tool: Nmap
+📗 Security Testing Tool: Nmap
 
-📕 Programming Language: Java,C,C++, JavaScript, HTML, CSS
+📗 Project Management Tool: Jira
 
-📗 Tools & Framework: Jmeter, GitHub
+📗 Database Tool: MySql
 
-📔 IDE: VS Code, Eclipse, Code Blocks, Google Colab
+📗 Software Development concepts: SDLC, STLC
 
-📓 Database: MySql
+📗 Web Automation Tool: Selenium with Java
 
-📙 Agile Methodology & Project Management: Jira
+📗 Mobile Automation Tool: Appium
 
-📒 Operating System: Windows, Linux
+📗 BDD Tool: Cucumber
+
+📗 CI / CD Tool: Jenkins
+
+📗 IDE: Intellij, Eclipse
+
+📗 Source and version control Tool: Git
+
+📗 Programming Language: Java,C,C++, JavaScript, HTML, CSS
+
+📗 Agile Methodology & Project Management: Jira
+
+📗 Operating System: Windows, Linux
 
 📚 Concepts: OOP, SDLC, STLC
 
